@@ -8,6 +8,7 @@ What is inside🎁😉
   2. **Sorting_Algorithms**
       - Bubble Sort
       - Selection Sort
+      - Insertion Sort
       - Merge Sort
-      - Quict Sort
+      - Quick Sort
       - Shell Sort
