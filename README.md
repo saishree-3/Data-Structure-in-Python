@@ -1,5 +1,6 @@
 # Data-Structure-in-Python
 Data Structure made easy with simple Python coding!
+
 What is inside🎁😉
   1. **Linked List**
       - Singly Linked List
